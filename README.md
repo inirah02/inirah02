@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anscombes4tet" target="blank"><img src="https://img.shields.io/twitter/follow/anscombes4tet?logo=twitter&style=for-the-badge" alt="anscombes4tet" /></a> </p>
 
-- 🔭 I’m currently working [as a Developer Intern at a deep tech startup building cancer screening tech and a research intern at IIT Hyderabad using ML frameworks for predicting gene regulatory networks.](https://github.com/inirah02/niramai)
+- 🔭 I’m currently working as a Developer Intern at a deep tech startup building cancer screening tech and a research intern at IIT Hyderabad using ML frameworks for predicting gene regulatory networks.
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI projects**
 
