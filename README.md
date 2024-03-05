@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am a CSE Undergrad with a keen interest in Computational Cognition. I'm currently working at Niramai Health Analytix, a deep-tech startup focusing on Breast Cancer, and am using ML frameworks as a research intern at the Indian Institute of Technology Hyderabad, to predict gene regulatory networks. I have previously worked on building cognitive tools for reducing the onset of Dementia as a student entrepreneur. 
 
+I lead the largest technical community on campus and also have imparted knowledge to peers through workshops on Machine Learning, NLP, and Data Science. I've been admitted to top summer schools at Oxford University, London, and Massachusetts Institute of Technology which specialize in the applications of AI in Healthcare. I am a strong advocate for representation in STEM and recognized as a High Impact APAC Ambassador for the Women In Data Science Community, an initiative by Stanford University. I'm also a Harvard WE Tech Fellow, part of the world's largest student-run tech conference.
 <!--
 **inirah02/inirah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
