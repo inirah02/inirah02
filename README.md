@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI projects**
 
-- 🤝 I’m looking for help with **internship work opportunities for the upcoming summer June-July '24**
-
 - 👨‍💻 I'm an avid advocate of women in STEM [https://www.widsworldwide.org/get-inspired/blog/people/harini-anand/](https://www.widsworldwide.org/get-inspired/blog/people/harini-anand/)
 
-- 💬 Ask me about **ML,Data Science, NLP, AI Entrepreneurship and Healthcare**
+- 💬 Ask me about **ML, Data Science, NLP, AI Entrepreneurship and Healthcare**
 
 - 📫 How to reach me **harini.anand@gmail.com**
 
