@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anscombes4tet" target="blank"><img src="https://img.shields.io/twitter/follow/anscombes4tet?logo=twitter&style=for-the-badge" alt="anscombes4tet" /></a> </p>
 
-- 🔭 I’m currently working as a Developer Intern at IBM under the Data and AI Division.
+- 🔭 I’m currently working as a Software Developer at IBM under the Data and AI Division and as an Engineering Researcher at UIUC.
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI projects**
 
