@@ -6,17 +6,23 @@
 
 <p align="left"> <a href="https://twitter.com/anscombes4tet" target="blank"><img src="https://img.shields.io/twitter/follow/anscombes4tet?logo=twitter&style=for-the-badge" alt="anscombes4tet" /></a> </p>
 
-- 🔭 I’m currently working as a Software Developer at IBM under the Data and AI Division and as an Engineering Researcher at UIUC, Georgia Tech and Dartmouth College.
 
-- 👯 I’m looking to collaborate on **Machine Learning, Data Science and AI projects**
-
-- 👨‍💻 I'm an avid advocate of women in STEM [https://www.widsworldwide.org/get-inspired/blog/people/harini-anand/](https://www.widsworldwide.org/get-inspired/blog/people/harini-anand/)
-
-- 💬 Ask me about **ML, Data Science, NLP, AI Entrepreneurship and Healthcare**
-
+- SDE at IBM under the Data & AI Division
+  
+- Software Engineering Research at UIUC
+  
+- Computational Cognition Research at Georgia Institute of Technology
+  
+- Biomedical XAI Research at Dartmouth College
+  
+- Google KaggleX Mentee, AWS Scholar, Harvard WE Tech Fellow
+  
+- University of Oxford, Cohere & MIT Summer School alumna
+  
+- Stanford High Impact WiDS Ambassador
+  
 - 📫 How to reach me **harini.anand@gmail.com**
 
-- ⚡ Fun fact **I adore Taylor Swift's discography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
